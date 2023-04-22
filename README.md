@@ -1,1 +1,1 @@
-# ALLvillageSenegal
+# La liste des villages au Sénégal
