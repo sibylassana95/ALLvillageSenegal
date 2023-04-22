@@ -1,1 +1,41 @@
-[{"nom": "Bandafassi"}, {"nom": "Bembou"}, {"nom": "Dakateli"}, {"nom": "Dar Salam"}, {"nom": "Dimboly"}, {"nom": "Ethiolo"}, {"nom": "Fongolembi"}, {"nom": "Ibel (Sénégal)"}, {"nom": "Iwol"}, {"nom": "Missirah Sirimana"}, {"nom": "Ndebou"}, {"nom": "Sabodala"}, {"nom": "Samécouta"}]
+[
+    {
+        "nom": "Bandafassi"
+    },
+    {
+        "nom": "Bembou"
+    },
+    {
+        "nom": "Dakateli"
+    },
+    {
+        "nom": "Dar Salam"
+    },
+    {
+        "nom": "Dimboly"
+    },
+    {
+        "nom": "Ethiolo"
+    },
+    {
+        "nom": "Fongolembi"
+    },
+    {
+        "nom": "Ibel"
+    },
+    {
+        "nom": "Iwol"
+    },
+    {
+        "nom": "Missirah Sirimana"
+    },
+    {
+        "nom": "Ndebou"
+    },
+    {
+        "nom": "Sabodala"
+    },
+    {
+        "nom": "Samécouta"
+    }
+]

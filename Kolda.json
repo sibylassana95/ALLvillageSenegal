@@ -1,1 +1,29 @@
-[{"nom": "Darou Hidjiratou"}, {"nom": "Fafacourou"}, {"nom": "Mampatim"}, {"nom": "Nadjaf Al Achraf (Sénégal)"}, {"nom": "Ndorna"}, {"nom": "Niaming"}, {"nom": "Saré Bidji"}, {"nom": "Saré Coly Sallé"}, {"nom": "Tonguia"}]
+[
+    {
+        "nom": "Darou Hidjiratou"
+    },
+    {
+        "nom": "Fafacourou"
+    },
+    {
+        "nom": "Mampatim"
+    },
+    {
+        "nom": "Nadjaf Al Achraf"
+    },
+    {
+        "nom": "Ndorna"
+    },
+    {
+        "nom": "Niaming"
+    },
+    {
+        "nom": "Saré Bidji"
+    },
+    {
+        "nom": "Saré Coly Sallé"
+    },
+    {
+        "nom": "Tonguia"
+    }
+]

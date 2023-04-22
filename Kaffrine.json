@@ -1,1 +1,20 @@
-[{"nom": "Gniby"}, {"nom": "Katakel"}, {"nom": "Keur Mboucki"}, {"nom": "Mabo (Sénégal)"}, {"nom": "Mbegue"}, {"nom": "Sagna (localité du Sénégal)"}]
+[
+    {
+        "nom": "Gniby"
+    },
+    {
+        "nom": "Katakel"
+    },
+    {
+        "nom": "Keur Mboucki"
+    },
+    {
+        "nom": "Mabo"
+    },
+    {
+        "nom": "Mbegue"
+    },
+    {
+        "nom": "Sagna"
+    }
+]

@@ -1,1 +1,38 @@
-[{"nom": "Bindaba"}, {"nom": "Boghal"}, {"nom": "Bona (Sénégal)"}, {"nom": "Dialankine (Bona)"}, {"nom": "Diaroumé"}, {"nom": "Diendé"}, {"nom": "Djibabouya"}, {"nom": "Djibanar"}, {"nom": "Djiredji"}, {"nom": "Kamoya"}, {"nom": "Karantaba"}, {"nom": "Simbandi Brassou"}]
+[
+    {
+        "nom": "Bindaba"
+    },
+    {
+        "nom": "Boghal"
+    },
+    {
+        "nom": "Bona"
+    },
+    {
+        "nom": "Dialankine(Bona)"
+    },
+    {
+        "nom": "Diaroumé"
+    },
+    {
+        "nom": "Diendé"
+    },
+    {
+        "nom": "Djibabouya"
+    },
+    {
+        "nom": "Djibanar"
+    },
+    {
+        "nom": "Djiredji"
+    },
+    {
+        "nom": "Kamoya"
+    },
+    {
+        "nom": "Karantaba"
+    },
+    {
+        "nom": "Simbandi Brassou"
+    }
+]

@@ -1,1 +1,65 @@
-[{"nom": "Aïnoumal"}, {"nom": "Ali Gane"}, {"nom": "Kantor"}, {"nom": "Kayemor"}, {"nom": "Keur Ngor"}, {"nom": "Khalambasse"}, {"nom": "Medina Sabakh"}, {"nom": "Medna (Sénégal)"}, {"nom": "Ndémène"}, {"nom": "Ndiédieng"}, {"nom": "Nguélou"}, {"nom": "Niayène"}, {"nom": "Paoskoto"}, {"nom": "Porokhane"}, {"nom": "Sagne (ville du Sénégal)"}, {"nom": "Sama Diaène"}, {"nom": "Sine Ngayène"}, {"nom": "Taïba Niassène"}, {"nom": "Touba Saloum"}, {"nom": "Touba Sanokho"}, {"nom": "Wack Ngouna"}]
+[
+    {
+        "nom": "Aïnoumal"
+    },
+    {
+        "nom": "Ali Gane"
+    },
+    {
+        "nom": "Kantor"
+    },
+    {
+        "nom": "Kayemor"
+    },
+    {
+        "nom": "Keur Ngor"
+    },
+    {
+        "nom": "Khalambasse"
+    },
+    {
+        "nom": "Medina Sabakh"
+    },
+    {
+        "nom": "Medna"
+    },
+    {
+        "nom": "Ndémène"
+    },
+    {
+        "nom": "Ndiédieng"
+    },
+    {
+        "nom": "Nguélou"
+    },
+    {
+        "nom": "Niayène"
+    },
+    {
+        "nom": "Paoskoto"
+    },
+    {
+        "nom": "Porokhane"
+    },
+    {
+        "nom": "Sagne"
+    },
+    {
+        "nom": "Sama Diaène"
+    },
+    {
+        "nom": "Sine Ngayène"
+    },
+    {
+        "nom": "Taïba Niassène"
+    },
+    {
+        "nom": "Touba Saloum"
+    },
+    {
+        "nom": "Touba Sanokho"
+    },
+    {
+        "nom": "Wack Ngouna"
+    }
+]

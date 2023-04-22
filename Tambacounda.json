@@ -1,1 +1,53 @@
-[{"nom": "Bala (Sénégal)"}, {"nom": "Bamba Thialène"}, {"nom": "Bélé (Sénégal)"}, {"nom": "Boynguel Bamba"}, {"nom": "Dianké Makha"}, {"nom": "Kéniéba (Sénégal)"}, {"nom": "Koulor"}, {"nom": "Kounghany"}, {"nom": "Koussanar"}, {"nom": "Kouthiaba Wolof"}, {"nom": "Makacolibantang"}, {"nom": "Moudéry"}, {"nom": "Nayé"}, {"nom": "Ouro Himadou"}, {"nom": "Sénoudébou"}, {"nom": "Tuabou"}, {"nom": "Yaféra"}]
+[
+    {
+        "nom": "Bala"
+    },
+    {
+        "nom": "Bamba Thialène"
+    },
+    {
+        "nom": "Bélé"
+    },
+    {
+        "nom": "Boynguel Bamba"
+    },
+    {
+        "nom": "Dianké Makha"
+    },
+    {
+        "nom": "Kéniéba"
+    },
+    {
+        "nom": "Koulor"
+    },
+    {
+        "nom": "Kounghany"
+    },
+    {
+        "nom": "Koussanar"
+    },
+    {
+        "nom": "Kouthiaba Wolof"
+    },
+    {
+        "nom": "Makacolibantang"
+    },
+    {
+        "nom": "Moudéry"
+    },
+    {
+        "nom": "Nayé"
+    },
+    {
+        "nom": "Ouro Himadou"
+    },
+    {
+        "nom": "Sénoudébou"
+    },
+    {
+        "nom": "Tuabou"
+    },
+    {
+        "nom": "Yaféra"
+    }
+]

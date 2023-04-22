@@ -63,10 +63,10 @@
         "nom": "Bagaya"
     },
     {
-        "nom": "Baghagha (Adéane)"
+        "nom": "Baghagha(Adéane)"
     },
     {
-        "nom": "Baghagha (Niamone)"
+        "nom": "Baghagha(Niamone)"
     },
     {
         "nom": "Baïla"
@@ -84,7 +84,7 @@
         "nom": "Bakinghaye"
     },
     {
-        "nom": "Balandine (Sénégal)"
+        "nom": "Balandine"
     },
     {
         "nom": "Balankine Nord"
@@ -120,7 +120,7 @@
         "nom": "Bambatouma"
     },
     {
-        "nom": "Bandial (village)"
+        "nom": "Bandial"
     },
     {
         "nom": "Bandjikaki"
@@ -201,10 +201,10 @@
         "nom": "Bodé"
     },
     {
-        "nom": "Boffa (Sénégal)"
+        "nom": "Boffa"
     },
     {
-        "nom": "Boko (Kafountine)"
+        "nom": "Boko(Kafountine)"
     },
     {
         "nom": "Boucotte Diola"
@@ -285,7 +285,7 @@
         "nom": "Boutem"
     },
     {
-        "nom": "Bouto (Sénégal)"
+        "nom": "Bouto"
     },
     {
         "nom": "Boutolate"
@@ -312,7 +312,7 @@
         "nom": "Bricamanding"
     },
     {
-        "nom": "Brin (Sénégal)"
+        "nom": "Brin"
     },
     {
         "nom": "Brindiago"
@@ -387,7 +387,7 @@
         "nom": "Daroul Khayri"
     },
     {
-        "nom": "Darsalam (Sénégal)"
+        "nom": "Darsalam"
     },
     {
         "nom": "Darsalam Chérif"
@@ -414,7 +414,7 @@
         "nom": "Diagho"
     },
     {
-        "nom": "Diagnon (Sénégal)"
+        "nom": "Diagnon"
     },
     {
         "nom": "Diagobel"
@@ -441,7 +441,7 @@
         "nom": "Dialang"
     },
     {
-        "nom": "Dialankine (Oulampane)"
+        "nom": "Dialankine(Oulampane)"
     },
     {
         "nom": "Diamaye Inor"
@@ -549,10 +549,10 @@
         "nom": "Djiguipoune"
     },
     {
-        "nom": "Djiguirone (Djibidione)"
+        "nom": "Djiguirone(Djibidione)"
     },
     {
-        "nom": "Djiguirone (Oulampane)"
+        "nom": "Djiguirone(Oulampane)"
     },
     {
         "nom": "Djikesse Kampoundone"
@@ -706,7 +706,7 @@
             "nom": "Enampore"
         },
         {
-            "nom": "Ering (Sénégal)"
+            "nom": "Ering"
         },
         {
             "nom": "Essaoute"
@@ -736,7 +736,7 @@
             "nom": "Falméré"
         },
         {
-            "nom": "Fanda (Sénégal)"
+            "nom": "Fanda"
         },
         {
             "nom": "Fangoumé"
@@ -847,10 +847,10 @@
             "nom": "Kahéme"
         },
         {
-            "nom": "Kahinda (Sénégal)"
+            "nom": "Kahinda"
         },
         {
-            "nom": "Kailo (Sénégal)"
+            "nom": "Kailo"
         },
         {
             "nom": "Kailong"
@@ -922,10 +922,10 @@
             "nom": "Kartiack"
         },
         {
-            "nom": "Kassel (Sénégal)"
+            "nom": "Kassel"
         },
         {
-            "nom": "Kassila (Sénégal)"
+            "nom": "Kassila"
         },
         {
             "nom": "Kassou Sénégal"
@@ -973,7 +973,7 @@
             "nom": "Kolomba"
         },
         {
-            "nom": "Kona (Sénégal)"
+            "nom": "Kona"
         },
         {
             "nom": "Koudioughor"
@@ -1081,19 +1081,19 @@
             "nom": "Matankigne"
         },
         {
-            "nom": "Mawa (Sénégal)"
+            "nom": "Mawa"
         },
         {
             "nom": "Medieck"
         },
         {
-            "nom": "Médina (Enampore)"
+            "nom": "Médina(Enampore)"
         },
         {
             "nom": "Mlomp"
         },
         {
-            "nom": "Mlomp (Bignona)"
+            "nom": "Mlomp(Bignona)"
         },
         {
             "nom": "Mlomp Djibetene"
@@ -1120,7 +1120,7 @@
             "nom": "Ndembane"
         },
         {
-            "nom": "Ndiagne (Ouonck)"
+            "nom": "Ndiagne(Ouonck)"
         },
         {
             "nom": "Ndiéba"
@@ -1132,7 +1132,7 @@
             "nom": "Ngoniam"
         },
         {
-            "nom": "Niabina (Sénégal)"
+            "nom": "Niabina"
         },
         {
             "nom": "Niadiou"
@@ -1220,7 +1220,7 @@
         "nom": "Petit-Balandine"
     },
     {
-        "nom": "Piran (Sénégal)"
+        "nom": "Piran"
     },
     {
         "nom": "Pointe Saint-Georges"
@@ -1295,7 +1295,7 @@
         "nom": "Silinkine"
     },
     {
-        "nom": "Sindialon (Ouonck)"
+        "nom": "Sindialon(Ouonck)"
     },
     {
         "nom": "Sindian"
@@ -1304,7 +1304,7 @@
         "nom": "Sindone"
     },
     {
-        "nom": "Sinko (Sénégal)"
+        "nom": "Sinko"
     },
     {
         "nom": "Sitoukène"
@@ -1313,13 +1313,13 @@
         "nom": "Siwol"
     },
     {
-        "nom": "Sône (Sénégal)"
+        "nom": "Sône"
     },
     {
         "nom": "Soucouta"
     },
     {
-        "nom": "Souda (Sénégal)"
+        "nom": "Souda"
     },
     {
         "nom": "Soutou"
@@ -1328,10 +1328,10 @@
         "nom": "Suelle"
     },
     {
-        "nom": "Suzana (Senegal)"
+        "nom": "Suzana"
     },
     {
-        "nom": "Tabi (Sénégal)"
+        "nom": "Tabi"
     },
     {
         "nom": "Takème"
@@ -1343,10 +1343,10 @@
         "nom": "Tambacoumba"
     },
     {
-        "nom": "Tambacounda (Djibidione)"
+        "nom": "Tambacounda(Djibidione)"
     },
     {
-        "nom": "Tambacounda (Kataba 1)"
+        "nom": "Tambacounda(Kataba 1)"
     },
     {
         "nom": "Tambouille"
@@ -1364,7 +1364,7 @@
         "nom": "Tankoron"
     },
     {
-        "nom": "Tao (Sénégal)"
+        "nom": "Tao"
     },
     {
         "nom": "Tapilane"
@@ -1400,10 +1400,10 @@
         "nom": "Togho"
     },
     {
-        "nom": "Touba (Kataba 1)"
+        "nom": "Touba(Kataba 1)"
     },
     {
-        "nom": "Toubacouta (Ziguinchor)"
+        "nom": "Toubacouta(Ziguinchor)"
     },
     {
         "nom": "Toukara"
