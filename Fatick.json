@@ -1,92 +1,152 @@
 [
     {
-        "nom": "Diogane"
+        "nom": "Diogane",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Djifer"
+        "nom": "Djifer",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Djilasse"
+        "nom": "Djilasse",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Djilor"
+        "nom": "Djilor",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Fambine"
+        "nom": "Fambine",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Faoye"
+        "nom": "Faoye",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Fimela"
+        "nom": "Fimela",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Keur Birane Khorédia"
+        "nom": "Keur Birane Khorédia",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Loul Sessène"
+        "nom": "Loul Sessène",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Mar Lodj"
+        "nom": "Mar Lodj",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Mbassis"
+        "nom": "Mbassis",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Mbissel"
+        "nom": "Mbissel",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Missirah (Toubacouta)"
+        "nom": "Missirah (Toubacouta)",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Ndangane"
+        "nom": "Ndangane",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Ndiankha Ali"
+        "nom": "Ndiankha Ali",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Ndiob"
+        "nom": "Ndiob",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Ngalangue"
+        "nom": "Ngalangue",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Ngayokhem"
+        "nom": "Ngayokhem",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Niakhar"
+        "nom": "Niakhar",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Niodior"
+        "nom": "Niodior",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Palmarin"
+        "nom": "Palmarin",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Sirmang"
+        "nom": "Sirmang",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Sob"
+        "nom": "Sob",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Somb"
+        "nom": "Somb",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Tabakali"
+        "nom": "Tabakali",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Tattaguine"
+        "nom": "Tattaguine",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Thialane"
+        "nom": "Thialane",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Thiouthioune"
+        "nom": "Thiouthioune",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Toubacouta(Foundiougne)"
+        "nom": "Toubacouta(Foundiougne)",
+        "region": "Fatick",
+        "departement": ""
     },
     {
-        "nom": "Tukar"
+        "nom": "Tukar",
+        "region": "Fatick",
+        "departement": ""
     }
 ]

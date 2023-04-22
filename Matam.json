@@ -1,56 +1,92 @@
 [
     {
-        "nom": "Agnam-Goly"
+        "nom": "Agnam-Goly",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Agnam Civol"
+        "nom": "Agnam Civol",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Agnam Lidoubé"
+        "nom": "Agnam Lidoubé",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Agnam Thiodaye"
+        "nom": "Agnam Thiodaye",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Aly Oury"
+        "nom": "Aly Oury",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom":"Dembancané"
+        "nom":"Dembancané",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Doumga Ouro Alpha"
+        "nom": "Doumga Ouro Alpha",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Lobaly"
+        "nom": "Lobaly",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Ogo"
+        "nom": "Ogo",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Orkadiere"
+        "nom": "Orkadiere",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Ouro Molo"
+        "nom": "Ouro Molo",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Polel Diaoubé"
+        "nom": "Polel Diaoubé",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Séno Palel"
+        "nom": "Séno Palel",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Sinthiou Bara"
+        "nom": "Sinthiou Bara",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Sinthiou Boumacka"
+        "nom": "Sinthiou Boumacka",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Soringho"
+        "nom": "Soringho",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Vélingara Ferlo"
+        "nom": "Vélingara Ferlo",
+        "region": "Matam",
+        "departement": ""
     },
     {
-        "nom": "Wouro Sidy"
+        "nom": "Wouro Sidy",
+        "region": "Matam",
+        "departement": ""
     }
 ]

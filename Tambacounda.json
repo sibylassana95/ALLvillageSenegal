@@ -1,53 +1,87 @@
 [
     {
-        "nom": "Bala"
+        "nom": "Bala",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Bamba Thialène"
+        "nom": "Bamba Thialène",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Bélé"
+        "nom": "Bélé",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Boynguel Bamba"
+        "nom": "Boynguel Bamba",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Dianké Makha"
+        "nom": "Dianké Makha",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Kéniéba"
+        "nom": "Kéniéba",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Koulor"
+        "nom": "Koulor",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Kounghany"
+        "nom": "Kounghany",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Koussanar"
+        "nom": "Koussanar",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Kouthiaba Wolof"
+        "nom": "Kouthiaba Wolof",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Makacolibantang"
+        "nom": "Makacolibantang",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Moudéry"
+        "nom": "Moudéry",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Nayé"
+        "nom": "Nayé",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Ouro Himadou"
+        "nom": "Ouro Himadou",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Sénoudébou"
+        "nom": "Sénoudébou",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Tuabou"
+        "nom": "Tuabou",
+        "region": "Tambancounda",
+        "departement": ""
     },
     {
-        "nom": "Yaféra"
+        "nom": "Yaféra",
+        "region": "Tambancounda",
+        "departement": ""
     }
 ]

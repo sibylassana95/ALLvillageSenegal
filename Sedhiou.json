@@ -1,38 +1,62 @@
 [
     {
-        "nom": "Bindaba"
+        "nom": "Bindaba",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Boghal"
+        "nom": "Boghal",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Bona"
+        "nom": "Bona",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Dialankine(Bona)"
+        "nom": "Dialankine(Bona)",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Diaroumé"
+        "nom": "Diaroumé",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Diendé"
+        "nom": "Diendé",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Djibabouya"
+        "nom": "Djibabouya",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Djibanar"
+        "nom": "Djibanar",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Djiredji"
+        "nom": "Djiredji",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Kamoya"
+        "nom": "Kamoya",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Karantaba"
+        "nom": "Karantaba",
+        "region": "Sedhiou",
+        "departement": ""
     },
     {
-        "nom": "Simbandi Brassou"
+        "nom": "Simbandi Brassou",
+        "region": "Sedhiou",
+        "departement": ""
     }
 ]

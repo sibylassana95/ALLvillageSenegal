@@ -1,20 +1,32 @@
 [
     {
-        "nom": "Gniby"
+        "nom": "Gniby",
+        "region": "Kaffrine",
+        "departement": ""
     },
     {
-        "nom": "Katakel"
+        "nom": "Katakel",
+        "region": "Kaffrine",
+        "departement": ""
     },
     {
-        "nom": "Keur Mboucki"
+        "nom": "Keur Mboucki",
+        "region": "Kaffrine",
+        "departement": ""
     },
     {
-        "nom": "Mabo"
+        "nom": "Mabo",
+        "region": "Kaffrine",
+        "departement": ""
     },
     {
-        "nom": "Mbegue"
+        "nom": "Mbegue",
+        "region": "Kaffrine",
+        "departement": ""
     },
     {
-        "nom": "Sagna"
+        "nom": "Sagna",
+        "region": "Kaffrine",
+        "departement": ""
     }
 ]

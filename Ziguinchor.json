@@ -1,237 +1,393 @@
 [
     {
-        "nom": "Abéné"
+        "nom": "Abéné",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Adéane"
+        "nom": "Adéane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Affiniam"
+        "nom": "Affiniam",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Agnack Grand"
+        "nom": "Agnack Grand",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Agnack Petit"
+        "nom": "Agnack Petit",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Aïnoumane"
+        "nom": "Aïnoumane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Alacounda"
+        "nom": "Alacounda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Albadar"
+        "nom": "Albadar",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Babatte"
+        "nom": "Babatte",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bacounoun"
+        "nom": "Bacounoun",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badème"
+        "nom": "Badème",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badiana"
+        "nom": "Badiana",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badiatte Grand"
+        "nom": "Badiatte Grand",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badiatte Soughère"
+        "nom": "Badiatte Soughère",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badioncoto Comboli"
+        "nom": "Badioncoto Comboli",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badiouré"
+        "nom": "Badiouré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Badjigui"
+        "nom": "Badjigui",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baffa Bayotte"
+        "nom": "Baffa Bayotte",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bafican"
+        "nom": "Bafican",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bagame"
+        "nom": "Bagame",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bagaya"
+        "nom": "Bagaya",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baghagha(Adéane)"
+        "nom": "Baghagha(Adéane)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baghagha(Niamone)"
+        "nom": "Baghagha(Niamone)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baïla"
+        "nom": "Baïla",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baïpeul Frontière"
+        "nom": "Baïpeul Frontière",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baïpeung"
+        "nom": "Baïpeung",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bakassouk"
+        "nom": "Bakassouk",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bakinghaye"
+        "nom": "Bakinghaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balandine"
+        "nom": "Balandine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balankine Nord"
+        "nom": "Balankine Nord",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balankine Sud"
+        "nom": "Balankine Sud",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balignane"
+        "nom": "Balignane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baline"
+        "nom": "Baline",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balingore"
+        "nom": "Balingore",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balla Bassène"
+        "nom": "Balla Bassène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balla Djipalone"
+        "nom": "Balla Djipalone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balla Djiring"
+        "nom": "Balla Djiring",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balla Ougounor"
+        "nom": "Balla Ougounor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Balonguine"
+        "nom": "Balonguine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bambatouma"
+        "nom": "Bambatouma",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bandial"
+        "nom": "Bandial",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bandjikaki"
+        "nom": "Bandjikaki",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bani Israël"
+        "nom": "Bani Israël",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baraf"
+        "nom": "Baraf",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baraka Bounao"
+        "nom": "Baraka Bounao",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baraka Pakao"
+        "nom": "Baraka Pakao",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baraka Patata"
+        "nom": "Baraka Patata",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Barakesse"
+        "nom": "Barakesse",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Baranlir"
+        "nom": "Baranlir",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bassène"
+        "nom": "Bassène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bassène Kansana"
+        "nom": "Bassène Kansana",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bassène Mandouard"
+        "nom": "Bassène Mandouard",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bassèré"
+        "nom": "Bassèré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bassire"
+        "nom": "Bassire",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Batighere"
+        "nom": "Batighere",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Batinding Boudiakene"
+        "nom": "Batinding Boudiakene",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Batinding Diémé"
+        "nom": "Batinding Diémé",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Batinière"
+        "nom": "Batinière",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Batong"
+        "nom": "Batong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Belaye"
+        "nom": "Belaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bilasse"
+        "nom": "Bilasse",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bindago"
+        "nom": "Bindago",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bindialoum Bainounk"
+        "nom": "Bindialoum Bainounk",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bindialoum Manjacque"
+        "nom": "Bindialoum Manjacque",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bissine"
+        "nom": "Bissine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Biti Biti"
+        "nom": "Biti Biti",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bodé"
+        "nom": "Bodé",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boffa"
+        "nom": "Boffa",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boko(Kafountine)"
+        "nom": "Boko(Kafountine)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boucotte Diola"
+        "nom": "Boucotte Diola",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boucotte Mancagne"
+        "nom": "Boucotte Mancagne",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boucotte Wolof"
+        "nom": "Boucotte Wolof",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bougnack"
+        "nom": "Bougnack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bougoutoub Bani"
+        "nom": "Bougoutoub Bani",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bougoutoub Djinoubor"
+        "nom": "Bougoutoub Djinoubor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bouhinor"
+        "nom": "Bouhinor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Bouhouyou"
+        "nom": "Bouhouyou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Boukenoune"
+        "nom": "Boukenoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
         "nom": "Boukitingho"

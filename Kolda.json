@@ -1,29 +1,47 @@
 [
     {
-        "nom": "Darou Hidjiratou"
+        "nom": "Darou Hidjiratou",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Fafacourou"
+        "nom": "Fafacourou",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Mampatim"
+        "nom": "Mampatim",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Nadjaf Al Achraf"
+        "nom": "Nadjaf Al Achraf",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Ndorna"
+        "nom": "Ndorna",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Niaming"
+        "nom": "Niaming",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Saré Bidji"
+        "nom": "Saré Bidji",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Saré Coly Sallé"
+        "nom": "Saré Coly Sallé",
+        "region": "Kolda",
+        "departement": ""
     },
     {
-        "nom": "Tonguia"
+        "nom": "Tonguia",
+        "region": "Kolda",
+        "departement": ""
     }
 ]

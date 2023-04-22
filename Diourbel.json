@@ -1,29 +1,47 @@
 [
     {
-        "nom": "Baba Garage"
+        "nom": "Baba Garage",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Kael"
+        "nom": "Kael",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Lambaye"
+        "nom": "Lambaye",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "N'Digane"
+        "nom": "N'Digane",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Ndame"
+        "nom": "Ndame",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Ndindy"
+        "nom": "Ndindy",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Ndoulo"
+        "nom": "Ndoulo",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Ngodjilème"
+        "nom": "Ngodjilème",
+        "region": "Diourbel",
+        "departement": ""
     },
     {
-        "nom": "Thieytou"
+        "nom": "Thieytou",
+        "region": "Diourbel",
+        "departement": ""
     }
 ]

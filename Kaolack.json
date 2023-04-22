@@ -1,65 +1,107 @@
 [
     {
-        "nom": "Aïnoumal"
+        "nom": "Aïnoumal",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Ali Gane"
+        "nom": "Ali Gane",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Kantor"
+        "nom": "Kantor",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Kayemor"
+        "nom": "Kayemor",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Keur Ngor"
+        "nom": "Keur Ngor",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Khalambasse"
+        "nom": "Khalambasse",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Medina Sabakh"
+        "nom": "Medina Sabakh",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Medna"
+        "nom": "Medna",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Ndémène"
+        "nom": "Ndémène",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Ndiédieng"
+        "nom": "Ndiédieng",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Nguélou"
+        "nom": "Nguélou",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Niayène"
+        "nom": "Niayène",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Paoskoto"
+        "nom": "Paoskoto",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Porokhane"
+        "nom": "Porokhane",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Sagne"
+        "nom": "Sagne",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Sama Diaène"
+        "nom": "Sama Diaène",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Sine Ngayène"
+        "nom": "Sine Ngayène",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Taïba Niassène"
+        "nom": "Taïba Niassène",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Touba Saloum"
+        "nom": "Touba Saloum",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Touba Sanokho"
+        "nom": "Touba Sanokho",
+        "region": "Kaolack",
+        "departement": ""
     },
     {
-        "nom": "Wack Ngouna"
+        "nom": "Wack Ngouna",
+        "region": "Kaolack",
+        "departement": ""
     }
 ]

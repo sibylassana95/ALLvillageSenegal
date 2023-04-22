@@ -1,20 +1,35 @@
 [
     {
-        "nom": "Keur Ndiaye Lo"
+        "nom": "Keur Ndiaye Lo",
+        "region": "Dakar",
+        "departement": ""
     },
     {
-        "nom": "Kounoune"
+        "nom": "Kounoune",
+        "region": "Dakar",
+        "departement": ""
     },
     {
-        "nom": "Niaga Ouolof"
+        "nom": "Niaga Ouolof",
+        "region": "Dakar",
+        "departement": ""
     },
     {
-        "nom": "Niaga Peul"
+        "nom": "Niaga Peul",
+        "region": "Dakar",
+        "departement": ""
     },
     {
-        "nom": "Noflaye"
+        "nom": "Noflaye",
+        "region": "Dakar",
+        "departement": ""
     },
     {
-        "nom": "Toubab Dialo"
+        "nom": "Toubab Dialo",
+        "region": "Dakar",
+        "departement": ""
     }
 ]
+
+
+        

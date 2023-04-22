@@ -1,65 +1,107 @@
 [
     {
-        "nom": "Baralé-Ndiaye"
+        "nom": "Baralé-Ndiaye",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Barkédji"
+        "nom": "Barkédji",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Coki"
+        "nom": "Coki",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Darou Mousty"
+        "nom": "Darou Mousty",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Dodji"
+        "nom": "Dodji",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Kamb"
+        "nom": "Kamb",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Keur Momar Sarr"
+        "nom": "Keur Momar Sarr",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Lompoul-sur-Mer"
+        "nom": "Lompoul-sur-Mer",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Mbacké Baari(Sagatta Dioloff)"
+        "nom": "Mbacké Baari(Sagatta Dioloff)",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Mélakh"
+        "nom": "Mélakh",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Ndothie Seye"
+        "nom": "Ndothie Seye",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Pare Cissé"
+        "nom": "Pare Cissé",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Pass"
+        "nom": "Pass",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Potou"
+        "nom": "Potou",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Sagatta Dioloff"
+        "nom": "Sagatta Dioloff",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Sagatta Gueth"
+        "nom": "Sagatta Gueth",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Sakal"
+        "nom": "Sakal",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Taré"
+        "nom": "Taré",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Warack Ndiatar"
+        "nom": "Warack Ndiatar",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Wiss-Wiss"
+        "nom": "Wiss-Wiss",
+        "region": "Louga",
+        "departement": ""
     },
     {
-        "nom": "Yang-Yang"
+        "nom": "Yang-Yang",
+        "region": "Louga",
+        "departement": ""
     }
 ]

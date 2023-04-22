@@ -1,68 +1,112 @@
 [
     {
-        "nom": "Boké Dialloubé"
+        "nom": "Boké Dialloubé",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Cas-Cas"
+        "nom": "Cas-Cas",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Diatar"
+        "nom": "Diatar",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Donaye Taredji"
+        "nom": "Donaye Taredji",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Fanaye"
+        "nom": "Fanaye",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Gamadji Saré"
+        "nom": "Gamadji Saré",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Halwar"
+        "nom": "Halwar",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Kadione 2"
+        "nom": "Kadione 2",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Lampsar"
+        "nom": "Lampsar",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Maka"
+        "nom": "Maka",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Mbane"
+        "nom": "Mbane",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Merinaghen"
+        "nom": "Merinaghen",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "N'Guelakh"
+        "nom": "N'Guelakh",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Nder"
+        "nom": "Nder",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Ndiawar"
+        "nom": "Ndiawar",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Rao"
+        "nom": "Rao",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Saldé"
+        "nom": "Saldé",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Sinthiou Dangdé"
+        "nom": "Sinthiou Dangdé",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Sioure"
+        "nom": "Sioure",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Tassinère"
+        "nom": "Tassinère",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Thillé Boubacar"
+        "nom": "Thillé Boubacar",
+        "region": "Saint-Louis",
+        "departement": ""
     },
     {
-        "nom": "Wallah"
+        "nom": "Wallah",
+        "region": "Saint-Louis",
+        "departement": ""
     }
 ]

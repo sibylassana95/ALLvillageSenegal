@@ -1,41 +1,67 @@
 [
     {
-        "nom": "Bandafassi"
+        "nom": "Bandafassi",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Bembou"
+        "nom": "Bembou",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Dakateli"
+        "nom": "Dakateli",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Dar Salam"
+        "nom": "Dar Salam",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Dimboly"
+        "nom": "Dimboly",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Ethiolo"
+        "nom": "Ethiolo",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Fongolembi"
+        "nom": "Fongolembi",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Ibel"
+        "nom": "Ibel",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Iwol"
+        "nom": "Iwol",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Missirah Sirimana"
+        "nom": "Missirah Sirimana",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Ndebou"
+        "nom": "Ndebou",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Sabodala"
+        "nom": "Sabodala",
+        "region": "Kedougou",
+        "departement": ""
     },
     {
-        "nom": "Samécouta"
+        "nom": "Samécouta",
+        "region": "Kedougou",
+        "departement": ""
     }
 ]
