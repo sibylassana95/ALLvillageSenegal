@@ -1180,735 +1180,1225 @@
         "departement": ""
     },
     {
-        "nom": "Essaoute"
+        "nom": "Essaoute",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Essom Silathiaye"
+        "nom": "Essom Silathiaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Essoukoudiack"
+        "nom": "Essoukoudiack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Essyl"
+        "nom": "Essyl",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Etafoune"
+        "nom": "Etafoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Etama"
+        "nom": "Etama",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Etomé"
+        "nom": "Etomé",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Etoune"
+        "nom": "Etoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Falméré"
+        "nom": "Falméré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Fanda"
+        "nom": "Fanda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Fangoumé"
+        "nom": "Fangoumé",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Faregnab"
+        "nom": "Faregnab",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Fintiock"
+        "nom": "Fintiock",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Francounda"
+        "nom": "Francounda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ghamoune"
+        "nom": "Ghamoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ghoniame"
+        "nom": "Ghoniame",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Gnikine"
+        "nom": "Gnikine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Goungouloung"
+        "nom": "Goungouloung",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Gouraf"
+        "nom": "Gouraf",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Grand Coulaye"
+        "nom": "Grand Coulaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Grand Kanao"
+        "nom": "Grand Kanao",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Guérina"
+        "nom": "Guérina",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Guidel Bambadinka"
+        "nom": "Guidel Bambadinka",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Hatioune"
+        "nom": "Hatioune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Hillol"
+        "nom": "Hillol",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Hitou"
+        "nom": "Hitou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kabadio"
+        "nom": "Kabadio",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kabiline"
+        "nom": "Kabiline",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaboungoutte"
+        "nom": "Kaboungoutte",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kabrousse"
+        "nom": "Kabrousse",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadialouck"
+        "nom": "Kadialouck",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadiéné"
+        "nom": "Kadiéné",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Ebankine"
+        "nom": "Kadjinolle Ebankine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Hassouka"
+        "nom": "Kadjinolle Hassouka",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Kadianka"
+        "nom": "Kadjinolle Kadianka",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Kafone"
+        "nom": "Kadjinolle Kafone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Kagnao"
+        "nom": "Kadjinolle Kagnao",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kadjinolle Sagheur"
+        "nom": "Kadjinolle Sagheur",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaégha"
+        "nom": "Kaégha",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kafesse"
+        "nom": "Kafesse",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kafountine"
+        "nom": "Kafountine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kagnarou"
+        "nom": "Kagnarou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kagnobon"
+        "nom": "Kagnobon",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kagnout"
+        "nom": "Kagnout",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaguitte"
+        "nom": "Kaguitte",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kahéme"
+        "nom": "Kahéme",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kahinda"
+        "nom": "Kahinda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kailo"
+        "nom": "Kailo",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kailong"
+        "nom": "Kailong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kailou"
+        "nom": "Kailou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kakaré"
+        "nom": "Kakaré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kakène"
+        "nom": "Kakène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaléane"
+        "nom": "Kaléane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaléou"
+        "nom": "Kaléou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kalomba"
+        "nom": "Kalomba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaloubaloub"
+        "nom": "Kaloubaloub",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kamobeul"
+        "nom": "Kamobeul",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kandiadiou"
+        "nom": "Kandiadiou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kandialong"
+        "nom": "Kandialong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kandiou"
+        "nom": "Kandiou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kanfounda"
+        "nom": "Kanfounda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kankandy"
+        "nom": "Kankandy",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kantimba"
+        "nom": "Kantimba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kaoudioul"
+        "nom": "Kaoudioul",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Karanaye"
+        "nom": "Karanaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kariaye"
+        "nom": "Kariaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Karongue"
+        "nom": "Karongue",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Karounate"
+        "nom": "Karounate",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Karounor Djiragone"
+        "nom": "Karounor Djiragone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Karounor Narang"
+        "nom": "Karounor Narang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kartiack"
+        "nom": "Kartiack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kassel"
+        "nom": "Kassel",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kassila"
+        "nom": "Kassila",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kassou Sénégal"
+        "nom": "Kassou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kassoulou"
+        "nom": "Kassoulou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kataba 1"
+        "nom": "Kataba 1",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kataba 2"
+        "nom": "Kataba 2",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Katack"
+        "nom": "Katack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kateum Teum"
+        "nom": "Kateum Teum",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Katinong"
+        "nom": "Katinong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Katinoro Kaeghor"
+        "nom": "Katinoro Kaeghor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Katoudié"
+        "nom": "Katoudié",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Katouré"
+        "nom": "Katouré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kigniding"
+        "nom": "Kigniding",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kindieng"
+        "nom": "Kindieng",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kindiong"
+        "nom": "Kindiong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Koba Séléty"
+        "nom": "Koba Séléty",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kolomba"
+        "nom": "Kolomba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kona"
+        "nom": "Kona",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Koudioughor"
+        "nom": "Koudioughor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Koulican"
+        "nom": "Koulican",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Koundioundou"
+        "nom": "Koundioundou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kourègue"
+        "nom": "Kourègue",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kouring"
+        "nom": "Kouring",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Kourouk"
+        "nom": "Kourouk",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Koutenghor"
+        "nom": "Koutenghor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Laty"
+        "nom": "Laty",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Leufeu"
+        "nom": "Leufeu",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Loudia Diola"
+        "nom": "Loudia Diola",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Loudia Ouolof"
+        "nom": "Loudia Ouolof",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Macouda"
+        "nom": "Macouda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Madina Birassou"
+        "nom": "Madina Birassou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Madina Daffé"
+        "nom": "Madina Daffé",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mahamouda"
+        "nom": "Mahamouda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mahmouda Chérif"
+        "nom": "Mahmouda Chérif",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mahmouda Diola"
+        "nom": "Mahmouda Diola",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mamatoro"
+        "nom": "Mamatoro",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mambigne Katampor"
+        "nom": "Mambigne Katampor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mampalago"
+        "nom": "Mampalago",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mandégane"
+        "nom": "Mandégane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mandina Mancagne"
+        "nom": "Mandina Mancagne",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mandina Manjaque"
+        "nom": "Mandina Manjaque",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mandouard"
+        "nom": "Mandouard",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mandouard 2"
+        "nom": "Mandouard 2",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mangagoulack"
+        "nom": "Mangagoulack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mangoule Banni"
+        "nom": "Mangoule Banni",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mangoule Centre"
+        "nom": "Mangoule Centre",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mangoule Nialor"
+        "nom": "Mangoule Nialor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mantate"
+        "nom": "Mantate",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Maracounda"
+        "nom": "Maracounda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mararan"
+        "nom": "Mararan",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Margoune"
+        "nom": "Margoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Massara"
+        "nom": "Massara",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Matankigne"
+        "nom": "Matankigne",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mawa"
+        "nom": "Mawa",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Medieck"
+        "nom": "Medieck",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Médina(Enampore)"
+        "nom": "Médina(Enampore)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp"
+        "nom": "Mlomp",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp(Bignona)"
+        "nom": "Mlomp(Bignona)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp Djibetene"
+        "nom": "Mlomp Djibetene",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp Djicomol"
+        "nom": "Mlomp Djicomol",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp Etebemaye"
+        "nom": "Mlomp Etebemaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp Haer"
+        "nom": "Mlomp Haer",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mlomp Kadjifolong"
+        "nom": "Mlomp Kadjifolong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mongone"
+        "nom": "Mongone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Mpack"
+        "nom": "Mpack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ndembane"
+        "nom": "Ndembane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ndiagne(Ouonck)"
+        "nom": "Ndiagne(Ouonck)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ndiéba"
+        "nom": "Ndiéba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Néma-Djinaré"
+        "nom": "Néma-Djinaré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ngoniam"
+        "nom": "Ngoniam",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niabina"
+        "nom": "Niabina",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niadiou"
+        "nom": "Niadiou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niaféna"
+        "nom": "Niaféna",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niafourang"
+        "nom": "Niafourang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niaguis"
+        "nom": "Niaguis",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niaïré"
+        "nom": "Niaïré",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niallé"
-    },
+        "nom": "Niallé",
+        "region": "Ziguinchor",
+        "departement": ""
+    },,
+        "region": "Ziguinchor",
+        "departement": ""
     {
-        "nom": "Nialokane"
+        "nom": "Nialokane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niambalang"
+        "nom": "Niambalang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niamone"
+        "nom": "Niamone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niandane"
+        "nom": "Niandane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niankitte"
+        "nom": "Niankitte",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niassarang"
+        "nom": "Niassarang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Niomoune"
+        "nom": "Niomoune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Nyassia"
+        "nom": "Nyassia",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oubème"
+        "nom": "Oubème",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ouel Kalir"
+        "nom": "Ouel Kalir",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ouel Moundaye"
+        "nom": "Ouel Moundaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oufoulo"
+        "nom": "Oufoulo",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ougonor"
+        "nom": "Ougonor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oukout Eteilo"
+        "nom": "Oukout Eteilo",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oukout Madiop"
+        "nom": "Oukout Madiop",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oulampane"
+        "nom": "Oulampane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ouniock"
+        "nom": "Ouniock",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ouonck"
+        "nom": "Ouonck",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oupeuth"
+        "nom": "Oupeuth",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Ourong"
+        "nom": "Ourong",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Oussack"
+        "nom": "Oussack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Petit-Balandine"
+        "nom": "Petit-Balandine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Piran"
+        "nom": "Piran",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Pointe Saint-Georges"
+        "nom": "Pointe Saint-Georges",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Poubosse"
+        "nom": "Poubosse",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Poukène"
+        "nom": "Poukène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Saloulou"
+        "nom": "Saloulou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sam Sam"
+        "nom": "Sam Sam",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Samatite"
+        "nom": "Samatite",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Samboulandiang"
+        "nom": "Samboulandiang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Samick"
+        "nom": "Samick",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sandiaba Manjacque"
+        "nom": "Sandiaba Manjacque",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sandougou"
+        "nom": "Sandougou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Santack"
+        "nom": "Santack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Santhiaba Manjacque"
+        "nom": "Santhiaba Manjacque",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Santhiaba Ouolof"
+        "nom": "Santhiaba Ouolof",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Séléki"
+        "nom": "Séléki",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Séléty"
+        "nom": "Séléty",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Senghalène"
+        "nom": "Senghalène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sibogola"
+        "nom": "Sibogola",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sifoca"
+        "nom": "Sifoca",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Siganar Boulouf"
+        "nom": "Siganar Boulouf",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Siganar Houssal"
+        "nom": "Siganar Houssal",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Siganar Kaboukout"
+        "nom": "Siganar Kaboukout",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Siganar Katakal"
+        "nom": "Siganar Katakal",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Silick"
+        "nom": "Silick",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Silinkine"
+        "nom": "Silinkine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sindialon(Ouonck)"
+        "nom": "Sindialon(Ouonck)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sindian"
+        "nom": "Sindian",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sindone"
+        "nom": "Sindone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sinko"
+        "nom": "Sinko",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sitoukène"
+        "nom": "Sitoukène",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Siwol"
+        "nom": "Siwol",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Sône"
+        "nom": "Sône",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Soucouta"
+        "nom": "Soucouta",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Souda"
+        "nom": "Souda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Soutou"
+        "nom": "Soutou",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Suelle"
+        "nom": "Suelle",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Suzana"
+        "nom": "Suzana",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tabi"
+        "nom": "Tabi",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Takème"
+        "nom": "Takème",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Talloum"
+        "nom": "Talloum",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tambacoumba"
+        "nom": "Tambacoumba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tambacounda(Djibidione)"
+        "nom": "Tambacounda(Djibidione)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tambacounda(Kataba 1)"
+        "nom": "Tambacounda(Kataba 1)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tambouille"
+        "nom": "Tambouille",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tampindo"
+        "nom": "Tampindo",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tandine"
+        "nom": "Tandine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tandouboune"
+        "nom": "Tandouboune",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tankoron"
+        "nom": "Tankoron",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tao"
+        "nom": "Tao",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tapilane"
+        "nom": "Tapilane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tendaba"
+        "nom": "Tendaba",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tendième"
+        "nom": "Tendième",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tendimane"
+        "nom": "Tendimane",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tendine"
+        "nom": "Tendine",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tendouck"
+        "nom": "Tendouck",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tenghory"
+        "nom": "Tenghory",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Thiangouth"
+        "nom": "Thiangouth",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Thiobon"
+        "nom": "Thiobon",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Tobor"
+        "nom": "Tobor",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Togho"
+        "nom": "Togho",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Touba(Kataba 1)"
+        "nom": "Touba(Kataba 1)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Toubacouta(Ziguinchor)"
+        "nom": "Toubacouta(Ziguinchor)",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Toukara"
+        "nom": "Toukara",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Wagarang"
+        "nom": "Wagarang",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Wendaye"
+        "nom": "Wendaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Woniack"
+        "nom": "Woniack",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Yabocounda"
+        "nom": "Yabocounda",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Yabone"
+        "nom": "Yabone",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Bouhème"
+        "nom": "Youtou Bouhème",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Bringo"
+        "nom": "Youtou Bringo",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Djibonker"
+        "nom": "Youtou Djibonker",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Essoukaye"
+        "nom": "Youtou Essoukaye",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Kagar"
+        "nom": "Youtou Kagar",
+        "region": "Ziguinchor",
+        "departement": ""
     },
     {
-        "nom": "Youtou Kanokindo"
+        "nom": "Youtou Kanokindo",
+        "region": "Ziguinchor",
+        "departement": ""
     }
 ]
