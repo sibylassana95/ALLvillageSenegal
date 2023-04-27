@@ -1,152 +1,125 @@
 [
     {
         "nom": "Diogane",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
+       
     },
     {
         "nom": "Djifer",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick" 
     },
     {
         "nom": "Djilasse",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick" 
     },
     {
         "nom": "Djilor",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
+       
     },
     {
         "nom": "Fambine",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Faoye",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Fimela",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Keur Birane Khorédia",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Loul Sessène",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Mar Lodj",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Mbassis",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Mbissel",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Missirah (Toubacouta)",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Ndangane",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Ndiankha Ali",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Ndiob",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Ngalangue",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Ngayokhem",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Niakhar",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Niodior",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Palmarin",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Sirmang",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Sob",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Somb",
         "region": "Fatick",
-        "departement": ""
+        "departement": "Gossas"
     },
     {
         "nom": "Tabakali",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Tattaguine",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Thialane",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Thiouthioune",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Toubacouta(Foundiougne)",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     },
     {
         "nom": "Tukar",
-        "region": "Fatick",
-        "departement": ""
+        "region": "Fatick"
     }
 ]
